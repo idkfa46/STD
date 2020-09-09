@@ -1,7 +1,7 @@
 // main.cpp
 
 T_("The software is already running")
-csCZ("Oprogramowanie już działa")
+csCZ("Software je již spuštěn")
 esES("El software ya se está ejecutando")
 enUS("The software is already running")
 itIT("Il programma è già in esecuzione")

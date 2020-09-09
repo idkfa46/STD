@@ -6,7 +6,7 @@ Here below you can find a quick guide to support me in the software translation.
 For each text line in the software you will find the following format in the translation file:
 
 # T_("The software is already running")
-# csCZ("Oprogramowanie już działa")
+# csCZ("Software je již spuštěn")
 # esES("El software ya se está ejecutando")
 # enUS("The software is already running")
 # itIT("Il programma è già in esecuzione")
@@ -15,7 +15,7 @@ The 1st line with "T_" include the language actually in use (most of them are in
 
 The 2nd line "csCZ" will include Polish translation
 
-The 3rd line "esES" will include SPanish translation
+The 3rd line "esES" will include Czech translation
 
 The 4th line "enUS" will include English translation
 

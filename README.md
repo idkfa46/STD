@@ -21,10 +21,14 @@ The 4th line "enUS" will include English translation
 
 The 5th line "itIT" will include Italian translation
 
+
+
 Sometimes you will find text formatting tags that have not to be modified or the software layout will change. It's quite easy to identify them, here below a few examples:
 
 T_("@@iml:1950*1200`carpenteria:dentedoppio`") - formatting tag: @@iml:1950*1200`
+
 T_("[A2> Pag. $$P") - formatting tag: [A2> .... $$P
+
 T_("τ[, d] < f[, v,d]") - formatting tag: [, ... ]
 
 
@@ -36,4 +40,5 @@ thanks for your support.
 
 Regards,
 Matteo
+
 www.matteomosconi.com

@@ -13,9 +13,9 @@ For each text line in the software you will find the following format in the tra
 
 The 1st line with "T_" include the language actually in use (most of them are in Italian at the moment)
 
-The 2nd line "csCZ" will include Polish translation
+The 2nd line "csCZ" will include Czech translation
 
-The 3rd line "esES" will include Czech translation
+The 3rd line "esES" will include Spanish translation
 
 The 4th line "enUS" will include English translation
 
